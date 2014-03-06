@@ -1,0 +1,132 @@
+{
+  "id" : "joda-convert",
+  "info" : { },
+  "attributes" : {
+    "organization" : [ "org.joda" ],
+    "name" : [ "joda-convert" ],
+    "version" : [ "1.3.1" ]
+  },
+  "configurations" : [ {
+    "id" : "optional",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "org.joda" ],
+      "name" : [ "joda-convert" ],
+      "version" : [ "1.3.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "system",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "org.joda" ],
+      "name" : [ "joda-convert" ],
+      "version" : [ "1.3.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "javadoc",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "org.joda" ],
+      "name" : [ "joda-convert" ],
+      "version" : [ "1.3.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "sources",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "org.joda" ],
+      "name" : [ "joda-convert" ],
+      "version" : [ "1.3.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "default",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ {
+      "hash" : "19f7007ae4d61e1e47585ea742eb407bef36cd348b127bd4bf5c862f0a2f72b8",
+      "attributes" : {
+        "configurations" : [ "master" ]
+      },
+      "filename" : "joda-convert-1.3.1.jar"
+    } ],
+    "attributes" : {
+      "organization" : [ "org.joda" ],
+      "name" : [ "joda-convert" ],
+      "version" : [ "1.3.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "provided",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "org.joda" ],
+      "name" : [ "joda-convert" ],
+      "version" : [ "1.3.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "test",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "org.joda" ],
+      "name" : [ "joda-convert" ],
+      "version" : [ "1.3.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "compile",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "org.joda" ],
+      "name" : [ "joda-convert" ],
+      "version" : [ "1.3.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "runtime",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "org.joda" ],
+      "name" : [ "joda-convert" ],
+      "version" : [ "1.3.1" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "master",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ {
+      "hash" : "19f7007ae4d61e1e47585ea742eb407bef36cd348b127bd4bf5c862f0a2f72b8",
+      "attributes" : {
+        "configurations" : [ "master" ]
+      },
+      "filename" : "joda-convert-1.3.1.jar"
+    } ],
+    "attributes" : {
+      "organization" : [ "org.joda" ],
+      "name" : [ "joda-convert" ],
+      "version" : [ "1.3.1" ]
+    },
+    "requirements" : [ ]
+  } ]
+}

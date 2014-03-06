@@ -1,0 +1,35 @@
+{
+  "id" : "joda-convert",
+  "variants" : [ "37a2a9bded90b19037d39b32bbdb6eea864257a29c20c8f826bcab13a1422015", "36cdbfc1fbc4150cfc8609a712805f257a217cdc9563d6abc656cdb7f9fe082c", "e4bc13c238f1d6760de1ed7d64893835ac4c580d864eb8ed962f9c9b907beeb7", "0a81a7b63ffa1394e870953d0e38f246f14d4309f532a579c74d758cdabfb6f7", "3d14910ba20879cb930eb514c7653a668164491bef8fb010f42ff5ae34b803ba", "0f70709b339bf38002c27ca86e0aacbe59f9000f8223ac9f05febc8ee7e9238f", "55784dfdadf817752e7fa3209b63d2ceb6bbcc3a6173325648fe7ea341735535", "5bd95bc96f7db11b475bb9cdb2701c3fbfd5aa8b3e6dfc40435588ed8bd2ed26", "4c9aa5a13e58f2e0f0700b0c164e7dc88489423cceb54519875da9daf9208742", "7ddfe9ae7839c3d1c2a55a9941b0e893d86a24424ad9d1109bfc01b21f684b8b", "542e1c5aae07605d3a8c9582841d1d0b125541c8bcf4809d4ba7d7d6231925c3" ],
+  "configurations" : [ {
+    "id" : "test",
+    "repositories" : [ ]
+  }, {
+    "id" : "provided",
+    "repositories" : [ ]
+  }, {
+    "id" : "system",
+    "repositories" : [ ]
+  }, {
+    "id" : "master",
+    "repositories" : [ ]
+  }, {
+    "id" : "optional",
+    "repositories" : [ ]
+  }, {
+    "id" : "compile",
+    "repositories" : [ ]
+  }, {
+    "id" : "default",
+    "repositories" : [ ]
+  }, {
+    "id" : "sources",
+    "repositories" : [ ]
+  }, {
+    "id" : "javadoc",
+    "repositories" : [ ]
+  }, {
+    "id" : "runtime",
+    "repositories" : [ ]
+  } ]
+}
